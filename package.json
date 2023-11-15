@@ -17,5 +17,9 @@
         "path": "./themes/Red Accented Dark mode-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brad1066/brad1066-dark-red"
   }
 }
