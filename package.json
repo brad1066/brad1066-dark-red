@@ -1,8 +1,8 @@
 {
   "name": "brad1066-dark-red",
-  "displayName": "brad1066-dark-red",
+  "displayName": "Dark Mode with red accent",
   "description": "A dark theme with hints of red for VisualStudio Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -21,5 +21,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/brad1066/brad1066-dark-red"
-  }
+  },
+  "publisher": "brad1066"
 }
