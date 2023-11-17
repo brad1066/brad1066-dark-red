@@ -2,7 +2,7 @@
   "name": "brad1066-dark-red",
   "displayName": "Dark Mode with red accent",
   "description": "A dark theme with hints of red for VisualStudio Code",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.84.0"
   },
